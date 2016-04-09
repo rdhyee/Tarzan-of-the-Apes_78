@@ -1,0 +1,33 @@
+_repo: Tarzan-of-the-Apes_78
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '1993-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '78'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Africa -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Tarzan (Fictitious character) -- Fiction'
+- !lcsh 'Wild men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: Tarzan of the Apes
+url: http://www.gutenberg.org/ebooks/78
